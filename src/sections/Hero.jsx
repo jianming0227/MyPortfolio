@@ -9,7 +9,7 @@ import { HackerRoom } from '../components/HackerRoom.jsx';
 import ReactLogo from '../components/ReactLogo.jsx';
 import Rings from '../components/Rings.jsx';
 import Cube from '../components/Cube.jsx';
-import Java from '../components/java.jsx';
+import Java from '../components/Java.jsx';
 import HeroCamera from '../components/HeroCamera.jsx';
 import Button from '../components/Button.jsx';
 
