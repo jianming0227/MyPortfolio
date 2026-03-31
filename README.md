@@ -7,10 +7,10 @@
 
 An interactive, browser-based 3D self-introduction environment. This project bridges the gap between traditional web development and spatial computing, offering a navigable experience to explore my work and skills.
 
-[🚀 View Live Demo](https://your-deployment-link.vercel.app) | [📂 View Portfolio](https://github.com/jianming0227/MyPortfolio)
+[🚀 View Live Demo](https://jmportfolio-six.vercel.app/) | [📂 View Portfolio](https://github.com/jianming0227/MyPortfolio)
 
 ---
-
+ 
 ## 🏗️ Technical Highlights
 
 - **Spatial UI/UX:** Built with **React Three Fiber (R3F)** to render a responsive 3D canvas within a React lifecycle.
